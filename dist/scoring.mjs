@@ -19,7 +19,15 @@ export function experience(game) {
     has('Песочница') || has('Приключения') ? .66 : .25,
   ];
 }
-export function libraryAffinity(g,library){const candidates=library.filter(x=>x.id!==g.id);if(!candidates.length)return library.some(x=>x.id===g.id)?1:0;const a=experience(g);const scores=candidates.map(x=>{const union=new Set([...g.genres,...x.genres]);const genre=g.genres.filter(t=>x.genres.includes(t)).length/union.size;const b=experience(x),distance=a.reduce((s,n,i)=>s+Math.abs(n-b[i]),0)/a.length;return .65*genre+.35*(1-distance);}).sort((a,b)=>b-a).slice(0,3);return scores.reduce((s,v)=>s+v,0)/scores.length;}
+export function gameSimilarity(game, other, vector = experience(game)) {
+  const union = new Set([...game.genres, ...other.genres]);
+  const common = game.genres.filter(genre => other.genres.includes(genre)).length;
+  const otherVector = experience(other);
+  const distance = vector.reduce((sum, value, index) => sum + Math.abs(value - otherVector[index]), 0) / vector.length;
+  return .65 * (union.size ? common / union.size : 0) + .35 * (1 - distance);
+}
+
+export function libraryAffinity(g,library){const candidates=library.filter(x=>x.id!==g.id);if(!candidates.length)return library.some(x=>x.id===g.id)?1:0;const vector=experience(g);const scores=candidates.map(x=>gameSimilarity(g,x,vector)).sort((a,b)=>b-a).slice(0,3);return scores.reduce((s,v)=>s+v,0)/scores.length;}
 export function rankGames(games, filters = {}) {
   const f = {from: 0, to: 9999, minRating: 1, maxRating: 100, minReviews: 0, genre: '', sort: 'rating', ...filters};
   const matches = games.filter(game => game.overall && !game.comingSoon &&

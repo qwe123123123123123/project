@@ -100,3 +100,5 @@
   .quiz-results .card-picture{height:100%}
   .quiz-results .card-picture>.top-sticker{right:auto;left:7px}
 }
+.taste-actions{display:flex;gap:.45rem;flex-wrap:wrap;margin-top:.65rem}
+.taste-actions .chip[aria-pressed="true"]{border-color:var(--lime,#d1f35c);color:var(--lime,#d1f35c)}

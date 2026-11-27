@@ -1,5 +1,6 @@
 import {parseImport} from './importer.mjs';
 import {experience,dimensions,libraryAffinity} from './scoring.mjs';
+import {trainTaste} from './taste.mjs';
 import {extraGames} from './extra-games.mjs';
 import {expansionGames} from './catalog-expansion.mjs';
 export const genres=['RPG','Экшен','Приключения','Стратегия','Симулятор','Песочница','Головоломка','Гонки'];
@@ -31,11 +32,14 @@ export const baseGames=editorial.map(([id,title,genres,moods,modes,minutes,age,h
 export const defaultPrefs={mood:'',time:0,mode:'',hardware:'any',free:false,age:99,genres:[],hideOwned:false};
 export function recommend(games,prefs={},owned=[]){
  const p={...defaultPrefs,...prefs};const library=games.filter(g=>owned.includes(g.id));
+ const personalScore=trainTaste(games,p.taste ?? []);
  return games.filter(g=>(!p.free||g.free)&&(p.age===99||(g.age!=null&&g.age<=p.age))&&(!p.hideOwned||!owned.includes(g.id))&&(p.hardware!=='low'||g.hardware==='low')&&(!p.mode||(p.mode==='friends'?g.modes.some(m=>m!=='solo'):g.modes.includes('solo')))&&(!Number(p.time)||(g.minutes!=null&&g.minutes<=Number(p.time)))).map(g=>{
  const breakdown=[],reasons=[];const add=(label,weight,value)=>breakdown.push({label,weight,value:Math.round(value*100)});
  if(p.mood){const strength=experience(g)[dimensions.indexOf(p.mood)]??0;add('Настроение',45,strength);reasons.push(strength>=.8?'Хорошо подходит: '+moods[p.mood].toLowerCase():strength>=.5?'Частично подходит: '+moods[p.mood].toLowerCase():'Это настроение выражено слабо');}
  if(p.genres.length){const common=g.genres.filter(x=>p.genres.includes(x));add('Любимые жанры',30,common.length/g.genres.length);if(common.length)reasons.push(common.join(' / '));}
  if(library.length){const affinity=libraryAffinity(g,library);add('Похожесть на библиотеку',25,affinity);if(affinity>=.5)reasons.push('похожа по жанру и характеру на вашу библиотеку');}
+ const taste=personalScore(g);
+ if(taste!==null){add('Личный вкус',35,taste);if(taste>=.62)reasons.push('похожа на игры, которые тебе нравятся');if(taste<=.38)reasons.push('похожа на игры, которые ты отклонил');}
  if(p.time)reasons.push('сессия от '+g.minutes+' мин');if(p.mode)reasons.push(p.mode==='solo'?'можно играть одному':'есть совместный режим');
  const denominator=breakdown.reduce((s,x)=>s+x.weight,0);const match=denominator?Math.round(breakdown.reduce((s,x)=>s+x.weight*x.value,0)/denominator):null;
  return {...g,match,breakdown,reasons:reasons.length?reasons:['Настройте подбор под себя']};

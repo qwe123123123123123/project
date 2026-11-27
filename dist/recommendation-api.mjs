@@ -7,7 +7,8 @@ export const hasJavaServer = typeof document !== 'undefined' &&
 export async function getRecommendations(games, prefs, owned, kind = 'list') {
   if (hasJavaServer) {
     try {
-      const body = new URLSearchParams({...prefs, kind, genres: prefs.genres.join('|'), owned: owned.join('|')});
+      const taste = (prefs.taste ?? []).map(([id, vote]) => id + ':' + vote).join('|');
+      const body = new URLSearchParams({...prefs, kind, taste, genres: prefs.genres.join('|'), owned: owned.join('|')});
       const response = await fetch('/api/recommendations', {method: 'POST', body, signal: AbortSignal.timeout(4500)});
       if (!response.ok) throw new Error('Recommendation server unavailable');
       const data = await response.json();

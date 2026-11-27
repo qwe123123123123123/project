@@ -157,8 +157,18 @@ public final class NextplayServer {
         }
         Set<Integer> owned = list(form.getOrDefault("owned", "")).stream().map(Integer::parseInt)
             .collect(Collectors.toSet());
+        List<String> signals = list(form.getOrDefault("taste", ""));
+        if (signals.size() > 60) throw new IllegalArgumentException("Too many taste signals");
+        Map<Integer, Double> taste = new HashMap<>();
+        for (String signal : signals) {
+            String[] pair = signal.split(":", 2);
+            if (pair.length != 2) throw new IllegalArgumentException("Invalid taste signal");
+            double vote = Double.parseDouble(pair[1]);
+            if (!Double.isFinite(vote) || vote < -1 || vote > 1) throw new IllegalArgumentException("Invalid vote");
+            taste.put(Integer.parseInt(pair[0]), vote);
+        }
         return new Preferences(mood, time, mode, "low".equals(form.get("hardware")), "true".equals(form.get("free")),
-            age, new HashSet<>(list(form.getOrDefault("genres", ""))), "true".equals(form.get("hideOwned")), owned);
+            age, new HashSet<>(list(form.getOrDefault("genres", ""))), "true".equals(form.get("hideOwned")), owned, taste);
     }
 
     private static Integer nullableInteger(String value) {

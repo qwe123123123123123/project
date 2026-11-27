@@ -5,6 +5,7 @@ import java.util.Comparator;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Locale;
+import java.util.Map;
 import java.util.Set;
 
 final class RecommendationEngine {
@@ -22,10 +23,11 @@ final class RecommendationEngine {
     }
 
     record Preferences(String mood, int time, String mode, boolean lowHardware, boolean free,
-                       int age, Set<String> genres, boolean hideOwned, Set<Integer> owned) {}
+                       int age, Set<String> genres, boolean hideOwned, Set<Integer> owned, Map<Integer, Double> taste) {}
     record Component(String label, int weight, int value) {}
     record Match(Game game, Integer match, List<Component> breakdown, List<String> reasons,
                  List<String> adjustments, double cost) {}
+    private record Neighbor(double similarity, double vote) {}
     record Suggestions(List<Match> games, boolean approximate) {
         Match daily() {
             if (approximate) return games.getFirst();
@@ -47,6 +49,7 @@ final class RecommendationEngine {
 
     Suggestions suggest(Preferences prefs) {
         List<Game> library = available.stream().filter(game -> prefs.owned.contains(game.id)).toList();
+        List<Game> examples = available.stream().filter(game -> prefs.taste.containsKey(game.id)).toList();
         List<Game> eligible = available.stream()
             .filter(game -> !prefs.free || game.free)
             .filter(game -> prefs.age == 99 || game.age != null && game.age <= prefs.age)
@@ -55,19 +58,19 @@ final class RecommendationEngine {
             .filter(game -> (!prefs.hideOwned || !prefs.owned.contains(game.id))
                 && (!prefs.lowHardware || game.hardware.equals("low")) && game.canPlay(prefs.mode)
                 && (prefs.time == 0 || game.minutes != null && game.minutes <= prefs.time))
-            .map(game -> score(game, prefs, library, false))
+            .map(game -> score(game, prefs, library, examples, false))
             .sorted(BY_MATCH).toList();
         if (!exact.isEmpty()) return new Suggestions(exact, false);
 
         List<Match> closest = eligible.stream()
-            .map(game -> score(game, prefs, library, true))
+            .map(game -> score(game, prefs, library, examples, true))
             .sorted(Comparator.comparingDouble(Match::cost).thenComparing(BY_MATCH)
                 .thenComparing(BY_RATING).thenComparingInt(m -> m.game.id))
             .limit(6).toList();
         return new Suggestions(closest, !closest.isEmpty());
     }
 
-    private static Match score(Game game, Preferences prefs, List<Game> library, boolean approximate) {
+    private static Match score(Game game, Preferences prefs, List<Game> library, List<Game> examples, boolean approximate) {
         List<Component> breakdown = new ArrayList<>();
         List<String> reasons = new ArrayList<>();
         int mood = MOODS.indexOf(prefs.mood);
@@ -87,6 +90,23 @@ final class RecommendationEngine {
             double affinity = libraryAffinity(game, library);
             breakdown.add(component("Похожесть на библиотеку", 25, affinity));
             if (affinity >= .5) reasons.add("похожа по жанру и характеру на вашу библиотеку");
+        }
+        List<Neighbor> neighbors = examples.stream().filter(other -> other.id != game.id)
+            .map(other -> new Neighbor(similarity(game, other), prefs.taste.get(other.id)))
+            .filter(n -> n.similarity >= .4)
+            .sorted(Comparator.comparingDouble(Neighbor::similarity).reversed()).limit(5).toList();
+        if (!neighbors.isEmpty()) {
+            double totalWeight = 0;
+            double totalVote = 0;
+            for (Neighbor n : neighbors) {
+                double weight = n.similarity * n.similarity;
+                totalWeight += weight;
+                totalVote += weight * n.vote * n.similarity;
+            }
+            double taste = .5 + .5 * totalVote / totalWeight;
+            breakdown.add(component("Личный вкус", 35, taste));
+            if (taste >= .62) reasons.add("похожа на игры, которые тебе нравятся");
+            if (taste <= .38) reasons.add("похожа на игры, которые ты отклонил");
         }
         if (!approximate) {
             if (prefs.time != 0) reasons.add("сессия от " + game.minutes + " мин");
@@ -143,6 +163,6 @@ final class RecommendationEngine {
         for (int i = 0; i < game.experience.length; i++) {
             distance += Math.abs(game.experience[i] - other.experience[i]);
         }
-        return .65 * ((double) common / union.size()) + .35 * (1 - distance / game.experience.length);
+        return .65 * (union.isEmpty() ? 0 : (double) common / union.size()) + .35 * (1 - distance / game.experience.length);
     }
 }
