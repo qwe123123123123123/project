@@ -1,0 +1,9 @@
+**
+!Dockerfile
+!dist/
+!dist/**
+!scripts/
+!scripts/export-java-catalog.mjs
+!java/
+!java/src/
+!java/src/**

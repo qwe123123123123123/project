@@ -1,0 +1,2778 @@
+[
+  {
+    "id": 1091500,
+    "name": "Cyberpunk 2077",
+    "image": "assets/1091500.jpg",
+    "hero": "assets/hero.jpg",
+    "movie": {
+      "name": "022_CP_Gameplay_Trailer_EN_ESRB M_16x9_1080__",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1091500/327940/9edc84cbd6af95da2b01274b2fe5fa99e116e58e/1750616176/hls_264_master.m3u8?t=1611328033",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256810255/movie.293x165.jpg?t=1611328033"
+    },
+    "year": "Dec 9, 2020",
+    "developer": "CD PROJEKT RED",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1091500/",
+    "releaseYear": 2020,
+    "rating": {
+      "positive": 878184,
+      "negative": 129254,
+      "total": 1007438,
+      "percent": 87.2,
+      "updatedAt": "2026-11-17T17:13:23.245Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1091500%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 86,
+      "url": "https://www.metacritic.com/game/pc/cyberpunk-2077?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:08:26.302Z"
+    }
+  },
+  {
+    "id": 1245620,
+    "name": "ELDEN RING",
+    "image": "assets/1245620.jpg",
+    "hero": null,
+    "movie": {
+      "name": "ELDEN RING Shadow of the Erdtree - Gameplay Reveal Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1245620/665332/4021bcd03e70a49cb23b598f5407b8290152f9e2/1750650652/hls_264_master.m3u8?t=1709086258",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257002650/movie.293x165.jpg?t=1709086258"
+    },
+    "year": "Feb 24, 2022",
+    "developer": "FromSoftware, Inc.",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1245620/",
+    "releaseYear": 2022,
+    "rating": {
+      "positive": 1081724,
+      "negative": 80708,
+      "total": 1162432,
+      "percent": 93.1,
+      "updatedAt": "2026-11-17T17:13:25.789Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1245620%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 94,
+      "url": "https://www.metacritic.com/game/pc/elden-ring?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:08:27.931Z"
+    }
+  },
+  {
+    "id": 1086940,
+    "name": "Baldur's Gate 3",
+    "image": "assets/1086940.jpg",
+    "hero": null,
+    "movie": {
+      "name": "Baldur's Gate 3 - Accolades Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1086940/637951/59ca25b847b0e471638d1e2474acf71b068d57f0/1750615003/hls_264_master.m3u8?t=1702007645",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256987424/movie.293x165.jpg?t=1702007645"
+    },
+    "year": "Aug 4, 2023",
+    "developer": "Larian Studios",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1086940/",
+    "releaseYear": 2023,
+    "rating": {
+      "positive": 837815,
+      "negative": 27873,
+      "total": 865688,
+      "percent": 96.8,
+      "updatedAt": "2026-11-17T17:13:27.512Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1086940%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 96,
+      "url": "https://www.metacritic.com/game/pc/baldurs-gate-3?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:08:29.733Z"
+    }
+  },
+  {
+    "id": 1174180,
+    "name": "Red Dead Redemption 2",
+    "image": "assets/1174180.jpg",
+    "hero": null,
+    "movie": {
+      "name": "RDR2 Launch Trailer (US)",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1174180/254050/b2cc520c692391e65f2d09067f95001dcf4b434d/1750634049/hls_264_master.m3u8?t=1574881964",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256767979/movie.293x165.jpg?t=1574881964"
+    },
+    "year": "Dec 5, 2019",
+    "developer": "Rockstar Games",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1174180/",
+    "releaseYear": 2019,
+    "rating": {
+      "positive": 867518,
+      "negative": 69736,
+      "total": 937254,
+      "percent": 92.6,
+      "updatedAt": "2026-11-17T17:13:30.128Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1174180%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 93,
+      "url": "https://www.metacritic.com/game/pc/red-dead-redemption-2?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:08:31.663Z"
+    }
+  },
+  {
+    "id": 292030,
+    "name": "The Witcher 3: Wild Hunt — Remastered",
+    "image": "assets/292030.jpg",
+    "hero": null,
+    "movie": {
+      "name": "The Witcher 3: Wild Hunt — Remastered | Official Launch Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/292030/511051216/5bbe135e5caf9dce45b1fb09a9d76373fb8977b8/1790683068/hls_264_master.m3u8?t=1790693334",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257439639/32f72964eceaa2ea37c3ab03dff903a45414a89b/movie_600x337.jpg?t=1790693334"
+    },
+    "year": "May 18, 2015",
+    "developer": "CD PROJEKT RED",
+    "free": false,
+    "source": "https://store.steampowered.com/app/292030/",
+    "releaseYear": 2015,
+    "rating": {
+      "positive": 876916,
+      "negative": 32969,
+      "total": 909885,
+      "percent": 96.4,
+      "updatedAt": "2026-11-17T17:13:32.453Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A292030%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 93,
+      "url": "https://www.metacritic.com/game/pc/the-witcher-3-wild-hunt?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:08:33.425Z"
+    }
+  },
+  {
+    "id": 730,
+    "name": "Counter-Strike 2",
+    "image": "assets/730.jpg",
+    "hero": null,
+    "movie": {
+      "name": "Launch Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/730/612468/aa5a28c78f12232e6b6839034550c28b162fad3e/1748810724/hls_264_master.m3u8?t=1696005467",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256972298/movie.293x165.jpg?t=1696005467"
+    },
+    "year": "Aug 21, 2012",
+    "developer": "Valve",
+    "free": true,
+    "source": "https://store.steampowered.com/app/730/",
+    "releaseYear": 2012,
+    "rating": {
+      "positive": 8563592,
+      "negative": 1423593,
+      "total": 9987185,
+      "percent": 85.7,
+      "updatedAt": "2026-11-17T17:13:36.580Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A730%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": null
+  },
+  {
+    "id": 570,
+    "name": "Dota 2",
+    "image": "assets/570.jpg",
+    "hero": null,
+    "movie": {
+      "name": "Dota 2 - Join the Battle",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/570/116737/313addee2092d0bd6f538d164610061ea8bbe79c/1749859757/hls_264_master.m3u8?t=1762820639",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256692021/movie.293x165.jpg?t=1762820639"
+    },
+    "year": "Jul 9, 2013",
+    "developer": "Valve",
+    "free": true,
+    "source": "https://store.steampowered.com/app/570/",
+    "releaseYear": 2013,
+    "rating": {
+      "positive": 2263201,
+      "negative": 553566,
+      "total": 2816767,
+      "percent": 80.3,
+      "updatedAt": "2026-11-17T17:13:37.724Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A570%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 90,
+      "url": "https://www.metacritic.com/game/pc/dota-2?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:08:36.970Z"
+    }
+  },
+  {
+    "id": 578080,
+    "name": "PUBG: BATTLEGROUNDS",
+    "image": "assets/578080.jpg",
+    "hero": null,
+    "movie": {
+      "name": "F2P Launch_Gameplay Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/578080/1309225277/08ba54c8ba10768fa42079088e766a37ae14b242/1758181273/hls_264_master.m3u8?t=1758185160",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257200883/f9e2395c649a8fd58596f279d40bb91fb6c2e062/movie_600x337.jpg?t=1758185160"
+    },
+    "year": "Dec 21, 2017",
+    "developer": "PUBG Corporation",
+    "free": true,
+    "source": "https://store.steampowered.com/app/578080/",
+    "releaseYear": 2017,
+    "rating": {
+      "positive": 1661857,
+      "negative": 1082991,
+      "total": 2744848,
+      "percent": 60.5,
+      "updatedAt": "2026-11-17T17:13:40.089Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A578080%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": null
+  },
+  {
+    "id": 1172470,
+    "name": "Apex Legends™",
+    "image": "assets/1172470.jpg",
+    "hero": null,
+    "movie": {
+      "name": "Apex Legends: Cipher Gameplay Trailer WW ",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1172470/756891131/fee6a815b821b7a2d21ecba7f994564efe82cd12/1793730568/hls_264_master.m3u8?t=1793731323",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257490366/86ee0f323b7713eeb7986636e76e9a6b1dc6c77a/movie_600x337.jpg?t=1793731323"
+    },
+    "year": "Nov 4, 2020",
+    "developer": "Respawn",
+    "free": true,
+    "source": "https://store.steampowered.com/app/1172470/",
+    "releaseYear": 2020,
+    "rating": {
+      "positive": 730993,
+      "negative": 347071,
+      "total": 1078064,
+      "percent": 67.8,
+      "updatedAt": "2026-11-17T17:13:41.795Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1172470%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 88,
+      "url": "https://www.metacritic.com/game/pc/apex-legends?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:08:40.550Z"
+    }
+  },
+  {
+    "id": 252490,
+    "name": "Rust",
+    "image": "assets/252490.jpg",
+    "hero": null,
+    "movie": {
+      "name": "Official Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/252490/102019/c573f5b01317174c7ae20a0abbcc3a39ccad32c2/1750487766/hls_264_master.m3u8?t=1699598112",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256684736/movie.293x165.jpg?t=1699598112"
+    },
+    "year": "Feb 8, 2018",
+    "developer": "Facepunch Studios",
+    "free": false,
+    "source": "https://store.steampowered.com/app/252490/",
+    "releaseYear": 2018,
+    "rating": {
+      "positive": 1226056,
+      "negative": 189255,
+      "total": 1415311,
+      "percent": 86.6,
+      "updatedAt": "2026-11-17T17:13:44.222Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A252490%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 69,
+      "url": "https://www.metacritic.com/game/pc/rust?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:08:42.411Z"
+    }
+  },
+  {
+    "id": 413150,
+    "name": "Stardew Valley",
+    "image": "assets/413150.jpg",
+    "hero": null,
+    "movie": {
+      "name": "Stardew Valley Trailer 1080p",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/413150/336433/0058de516bf7c46986ba1e81172ffd3c2ca6cad7/1750527541/hls_264_master.m3u8?t=1754692862",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256815967/movie.293x165.jpg?t=1754692862"
+    },
+    "year": "Feb 26, 2016",
+    "developer": "ConcernedApe",
+    "free": false,
+    "source": "https://store.steampowered.com/app/413150/",
+    "releaseYear": 2016,
+    "rating": {
+      "positive": 1035218,
+      "negative": 15948,
+      "total": 1051166,
+      "percent": 98.5,
+      "updatedAt": "2026-11-17T17:13:46.146Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A413150%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 89,
+      "url": "https://www.metacritic.com/game/pc/stardew-valley?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:08:44.205Z"
+    }
+  },
+  {
+    "id": 105600,
+    "name": "Terraria",
+    "image": "assets/105600.jpg",
+    "hero": null,
+    "movie": {
+      "name": "Terraria: Bigger & Boulder Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/105600/1114648825/03d62ed8c2a353ea17f36caf492d053746655032/1769541214/hls_264_master.m3u8?t=1769844434",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257274214/3400c546ddc61c713c2a2da4df7032f0f264a2a4/movie_600x337.jpg?t=1769844434"
+    },
+    "year": "May 16, 2011",
+    "developer": "Re-Logic",
+    "free": false,
+    "source": "https://store.steampowered.com/app/105600/",
+    "releaseYear": 2011,
+    "rating": {
+      "positive": 1527719,
+      "negative": 41281,
+      "total": 1569000,
+      "percent": 97.4,
+      "updatedAt": "2026-11-17T17:13:48.358Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A105600%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 83,
+      "url": "https://www.metacritic.com/game/pc/terraria?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:08:46.006Z"
+    }
+  },
+  {
+    "id": 620,
+    "name": "Portal 2",
+    "image": "assets/620.jpg",
+    "hero": null,
+    "movie": {
+      "name": "Portal 2 E3 Demo (Excursion Funnels)",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/620/3746/0f4bee66d490b637707ac4fca3e850f2cc2d3b2a/1750108721/hls_264_master.m3u8?t=1682715616",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5787/movie.293x165.jpg?t=1682715616"
+    },
+    "year": "Apr 18, 2011",
+    "developer": "Valve",
+    "free": false,
+    "source": "https://store.steampowered.com/app/620/",
+    "releaseYear": 2011,
+    "rating": {
+      "positive": 463751,
+      "negative": 6076,
+      "total": 469827,
+      "percent": 98.7,
+      "updatedAt": "2026-11-17T17:13:50.488Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A620%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 95,
+      "url": "https://www.metacritic.com/game/pc/portal-2?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:08:47.836Z"
+    }
+  },
+  {
+    "id": 1145360,
+    "name": "Hades",
+    "image": "assets/1145360.jpg",
+    "hero": null,
+    "movie": {
+      "name": "Hades - v1.0 Gameplay Showcase",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1145360/312747/37b96035b5c9c7b12455eadc7bbc7d2b3afbd2fd/1750627553/hls_264_master.m3u8?t=1600353474",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256801288/movie.293x165.jpg?t=1600353474"
+    },
+    "year": "Sep 17, 2020",
+    "developer": "Supergiant Games",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1145360/",
+    "releaseYear": 2020,
+    "rating": {
+      "positive": 304687,
+      "negative": 6264,
+      "total": 310951,
+      "percent": 98,
+      "updatedAt": "2026-11-17T17:13:52.538Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1145360%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 93,
+      "url": "https://www.metacritic.com/game/pc/hades?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:08:49.614Z"
+    }
+  },
+  {
+    "id": 367520,
+    "name": "Hollow Knight",
+    "image": "assets/367520.jpg",
+    "hero": null,
+    "movie": {
+      "name": "Release Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/367520/89922/b71b6a50e9aa2334fddca8fa2197cb26a3640832/1750517691/hls_264_master.m3u8?t=1497589417",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256679401/movie.293x165.jpg?t=1497589417"
+    },
+    "year": "Feb 24, 2017",
+    "developer": "Team Cherry",
+    "free": false,
+    "source": "https://store.steampowered.com/app/367520/",
+    "releaseYear": 2017,
+    "rating": {
+      "positive": 551304,
+      "negative": 17580,
+      "total": 568884,
+      "percent": 96.9,
+      "updatedAt": "2026-11-17T17:13:54.833Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A367520%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 87,
+      "url": "https://www.metacritic.com/game/pc/hollow-knight?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:08:51.419Z"
+    }
+  },
+  {
+    "id": 1551360,
+    "name": "Forza Horizon 5",
+    "image": "assets/1551360.jpg",
+    "hero": null,
+    "movie": {
+      "name": "Forza Horizon 5 Accolades Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1551360/442268/66eddb8cdf196bf7c8d9bb8e8895bd7f60133cc1/1750700745/hls_264_master.m3u8?t=1647525311",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256875134/movie.293x165.jpg?t=1647525311"
+    },
+    "year": "Nov 8, 2021",
+    "developer": "Playground Games",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1551360/",
+    "releaseYear": 2021,
+    "rating": {
+      "positive": 253778,
+      "negative": 30708,
+      "total": 284486,
+      "percent": 89.2,
+      "updatedAt": "2026-11-17T17:13:56.916Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1551360%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": null
+  },
+  {
+    "id": 1623730,
+    "name": "Palworld",
+    "image": "assets/1623730.jpg",
+    "hero": null,
+    "movie": {
+      "name": "Tides of Terraria Update Gameplay Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1623730/113039709/3b5ebaedd8250085a582f5078ba2f873d868f6ed/1750822061/hls_264_master.m3u8?t=1752129517",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257161157/cc767bd10cc47563631ab24e71ed811ac2f4d4e0/movie_600x337.jpg?t=1752129517"
+    },
+    "year": "Jul 9, 2026",
+    "developer": "Pocketpair",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1623730/",
+    "releaseYear": 2026,
+    "rating": {
+      "positive": 469331,
+      "negative": 26755,
+      "total": 496086,
+      "percent": 94.6,
+      "updatedAt": "2026-11-17T17:13:59.145Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1623730%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": null
+  },
+  {
+    "id": 553850,
+    "name": "HELLDIVERS™ 2",
+    "image": "assets/553850.jpg",
+    "hero": null,
+    "movie": {
+      "name": "Devoid of Liberty",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/553850/97059895/43cbd15ee5e1bd1be5aef57dd4a093d448e2d7f5/1788431043/hls_264_master.m3u8?t=1788431411",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257416388/40bb356adaabd25fd73488264840abe84ac84718/movie_600x337.jpg?t=1788431411"
+    },
+    "year": "Feb 8, 2024",
+    "developer": "Arrowhead Game Studios",
+    "free": false,
+    "source": "https://store.steampowered.com/app/553850/",
+    "releaseYear": 2024,
+    "rating": {
+      "positive": 873380,
+      "negative": 316917,
+      "total": 1190297,
+      "percent": 73.4,
+      "updatedAt": "2026-11-17T17:14:01.808Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A553850%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": null
+  },
+  {
+    "id": 990080,
+    "name": "Hogwarts Legacy",
+    "image": "assets/990080.jpg",
+    "hero": null,
+    "movie": {
+      "name": "Hogwarts Legacy Launch Trailer ESRB",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/990080/312591535/edf964f7fb722d801bbe72a28ae205e8931519f7/1778796107/hls_264_master.m3u8?t=1778797473",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256930503/f057454ecf651b710de9d5e12d87808a8a9b550c/movie_600x337.jpg?t=1778797473"
+    },
+    "year": "Feb 10, 2023",
+    "developer": "Avalanche Software",
+    "free": false,
+    "source": "https://store.steampowered.com/app/990080/",
+    "releaseYear": 2023,
+    "rating": {
+      "positive": 339451,
+      "negative": 39005,
+      "total": 378456,
+      "percent": 89.7,
+      "updatedAt": "2026-11-17T17:14:03.576Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A990080%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 83,
+      "url": "https://www.metacritic.com/game/pc/hogwarts-legacy?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:08:58.691Z"
+    }
+  },
+  {
+    "id": 945360,
+    "name": "Among Us",
+    "image": "assets/945360.jpg",
+    "hero": null,
+    "movie": {
+      "name": "Influencer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/945360/878850778/ab7f0e7a1086031364dfe3853326f1b1f445bf08/1792181339/hls_264_master.m3u8?t=1792187807",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257465104/1bb33f3baeb2760f7b742800413e0e58a33cfc84/movie_600x337.jpg?t=1792187807"
+    },
+    "year": "Nov 16, 2018",
+    "developer": "Innersloth",
+    "free": false,
+    "source": "https://store.steampowered.com/app/945360/",
+    "releaseYear": 2018,
+    "rating": {
+      "positive": 693408,
+      "negative": 59986,
+      "total": 753394,
+      "percent": 92,
+      "updatedAt": "2026-11-17T17:14:05.856Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A945360%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 85,
+      "url": "https://www.metacritic.com/game/pc/among-us?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:00.455Z"
+    }
+  },
+  {
+    "id": 220,
+    "name": "Half-Life 2",
+    "image": "assets/220.jpg",
+    "movie": {
+      "name": "Half-Life 2 Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/220/786885/faaab313be3601c35e8790f0eb2f6b32e5eda63b/1749861546/hls_264_master.m3u8?t=1732069594",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257074217/2a5d40f3f7cd4a644849a7dae7ee9f9d7fb2074d/movie_600x337.jpg?t=1732069594"
+    },
+    "year": "Nov 16, 2004",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "Valve",
+    "free": false,
+    "source": "https://store.steampowered.com/app/220/",
+    "releaseYear": 2004,
+    "rating": {
+      "positive": 276035,
+      "negative": 6785,
+      "total": 282820,
+      "percent": 97.6,
+      "updatedAt": "2026-11-17T17:14:12.570Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A220%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 96,
+      "url": "https://www.metacritic.com/game/pc/half-life-2?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:02.249Z"
+    }
+  },
+  {
+    "id": 400,
+    "name": "Portal",
+    "image": "assets/400.jpg",
+    "movie": {
+      "name": "Portal Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/400/336/858d7ae015068388644e14742bd90801fbb8a805/1750108766/hls_264_master.m3u8?t=1682715059",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/922/movie.jpg?t=1682715059"
+    },
+    "year": "Oct 10, 2007",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "Valve",
+    "free": false,
+    "source": "https://store.steampowered.com/app/400/",
+    "releaseYear": 2007,
+    "rating": {
+      "positive": 198485,
+      "negative": 2967,
+      "total": 201452,
+      "percent": 98.5,
+      "updatedAt": "2026-11-17T17:14:19.250Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A400%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 90,
+      "url": "https://www.metacritic.com/game/pc/portal?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:04.105Z"
+    }
+  },
+  {
+    "id": 550,
+    "name": "Left 4 Dead 2",
+    "image": "assets/550.jpg",
+    "movie": {
+      "name": "Left 4 Dead - The Sacrifice Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/550/4183/7fdfab73a52d6b4e69a693f77c66620c53086cbd/1749861554/hls_264_master.m3u8?t=1682697457",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5952/movie.293x165.jpg?t=1682697457"
+    },
+    "year": "Nov 16, 2009",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "Valve",
+    "free": false,
+    "source": "https://store.steampowered.com/app/550/",
+    "releaseYear": 2009,
+    "rating": {
+      "positive": 1043519,
+      "negative": 26588,
+      "total": 1070107,
+      "percent": 97.5,
+      "updatedAt": "2026-11-17T17:14:25.988Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A550%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 89,
+      "url": "https://www.metacritic.com/game/pc/left-4-dead-2?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:05.894Z"
+    }
+  },
+  {
+    "id": 489830,
+    "name": "The Elder Scrolls V: Skyrim Special Edition",
+    "image": "assets/489830.jpg",
+    "movie": {
+      "name": "Skyrim Special Edition Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/489830/77128/20c56f14e492b05846f7262a246b4e4f0d455f7f/1750536877/hls_264_master.m3u8?t=1476991615",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256672927/movie.293x165.jpg?t=1476991615"
+    },
+    "year": "Oct 27, 2016",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Bethesda Game Studios",
+    "free": false,
+    "source": "https://store.steampowered.com/app/489830/",
+    "releaseYear": 2016,
+    "rating": {
+      "positive": 354056,
+      "negative": 29952,
+      "total": 384008,
+      "percent": 92.2,
+      "updatedAt": "2026-11-17T17:14:32.450Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A489830%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 74,
+      "url": "https://www.metacritic.com/game/pc/the-elder-scrolls-v-skyrim-special-edition?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:07.710Z"
+    }
+  },
+  {
+    "id": 632470,
+    "name": "Disco Elysium - The Final Cut",
+    "image": "assets/632470.jpg",
+    "movie": {
+      "name": "Disco Elysium - The Final Cut - Launch Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/632470/357391/40d4d0a212158209daf4efe0c8d98f90c1322e1b/1750564395/hls_264_master.m3u8?t=1617123094",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256827872/movie.293x165.jpg?t=1617123094"
+    },
+    "year": "Oct 15, 2019",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "ZA/UM",
+    "free": false,
+    "source": "https://store.steampowered.com/app/632470/",
+    "releaseYear": 2019,
+    "rating": {
+      "positive": 122959,
+      "negative": 9905,
+      "total": 132864,
+      "percent": 92.5,
+      "updatedAt": "2026-11-17T17:14:38.909Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A632470%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 97,
+      "url": "https://www.metacritic.com/game/pc/disco-elysium-the-final-cut?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:09.532Z"
+    }
+  },
+  {
+    "id": 753640,
+    "name": "Outer Wilds",
+    "image": "assets/753640.jpg",
+    "movie": {
+      "name": "Outer Wilds | Accolades Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/753640/273682/2f2fdd9086d95ee6dde3cd4dc7d70975d6c6bc81/1750579139/hls_264_master.m3u8?t=1585255228",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256778920/movie.293x165.jpg?t=1585255228"
+    },
+    "year": "Jun 18, 2020",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Mobius Digital",
+    "free": false,
+    "source": "https://store.steampowered.com/app/753640/",
+    "releaseYear": 2020,
+    "rating": {
+      "positive": 105715,
+      "negative": 4863,
+      "total": 110578,
+      "percent": 95.6,
+      "updatedAt": "2026-11-17T17:14:45.568Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A753640%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 85,
+      "url": "https://www.metacritic.com/game/pc/outer-wilds?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:11.327Z"
+    }
+  },
+  {
+    "id": 264710,
+    "name": "Subnautica",
+    "image": "assets/264710.jpg",
+    "movie": {
+      "name": "Subnautica Gameplay Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/264710/143519/33594902d34e588ce90d9905c30aa902198fea59/1750490623/hls_264_master.m3u8?t=1516828564",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256706800/movie.293x165.jpg?t=1516828564"
+    },
+    "year": "Jan 23, 2018",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Unknown Worlds Entertainment",
+    "free": false,
+    "source": "https://store.steampowered.com/app/264710/",
+    "releaseYear": 2018,
+    "rating": {
+      "positive": 372584,
+      "negative": 11154,
+      "total": 383738,
+      "percent": 97.1,
+      "updatedAt": "2026-11-17T17:14:52.244Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A264710%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 87,
+      "url": "https://www.metacritic.com/game/pc/subnautica?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:13.146Z"
+    }
+  },
+  {
+    "id": 504230,
+    "name": "Celeste",
+    "image": "assets/504230.jpg",
+    "movie": {
+      "name": "Launch",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/504230/143846/608cb7d60c10278f3107baf57a528e483a7cbc7b/1750539057/hls_264_master.m3u8?t=1516898311",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256706951/movie.293x165.jpg?t=1516898311"
+    },
+    "year": "Jan 25, 2018",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "Maddy Makes Games Inc., Extremely OK Games, Ltd.",
+    "free": false,
+    "source": "https://store.steampowered.com/app/504230/",
+    "releaseYear": 2018,
+    "rating": {
+      "positive": 146259,
+      "negative": 3956,
+      "total": 150215,
+      "percent": 97.4,
+      "updatedAt": "2026-11-17T17:14:58.745Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A504230%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 88,
+      "url": "https://www.metacritic.com/game/pc/celeste?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:14.917Z"
+    }
+  },
+  {
+    "id": 391540,
+    "name": "Undertale",
+    "image": "assets/391540.jpg",
+    "movie": {
+      "name": "UNDERTALE Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/391540/41087/3b1b45530651299a05801d7b2bdb0cae8f077bb0/1750524170/hls_264_master.m3u8?t=1447377566",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256655616/movie.293x165.jpg?t=1447377566"
+    },
+    "year": "Sep 15, 2015",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "tobyfox",
+    "free": false,
+    "source": "https://store.steampowered.com/app/391540/",
+    "releaseYear": 2015,
+    "rating": {
+      "positive": 336221,
+      "negative": 12149,
+      "total": 348370,
+      "percent": 96.5,
+      "updatedAt": "2026-11-17T17:15:05.600Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A391540%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 92,
+      "url": "https://www.metacritic.com/game/pc/undertale?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:16.743Z"
+    }
+  },
+  {
+    "id": 588650,
+    "name": "Dead Cells",
+    "image": "assets/588650.jpg",
+    "movie": {
+      "name": "Dead Cells - Accolade Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/588650/231061/8fe407db503493211097e9898f58ae600559a2a3/1750557235/hls_264_master.m3u8?t=1581426951",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256755089/movie.293x165.jpg?t=1581426951"
+    },
+    "year": "Aug 6, 2018",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "Motion Twin",
+    "free": false,
+    "source": "https://store.steampowered.com/app/588650/",
+    "releaseYear": 2018,
+    "rating": {
+      "positive": 179659,
+      "negative": 5553,
+      "total": 185212,
+      "percent": 97,
+      "updatedAt": "2026-11-17T17:15:12.051Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A588650%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 89,
+      "url": "https://www.metacritic.com/game/pc/dead-cells?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:18.553Z"
+    }
+  },
+  {
+    "id": 646570,
+    "name": "Slay the Spire",
+    "image": "assets/646570.jpg",
+    "movie": {
+      "name": "Launch Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/646570/205320/640196deb3169b2a1667340ab45f229af73caba7/1750566635/hls_264_master.m3u8?t=1548258737",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256740869/movie.293x165.jpg?t=1548258737"
+    },
+    "year": "Jan 23, 2019",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "Mega Crit",
+    "free": false,
+    "source": "https://store.steampowered.com/app/646570/",
+    "releaseYear": 2019,
+    "rating": {
+      "positive": 214737,
+      "negative": 5634,
+      "total": 220371,
+      "percent": 97.4,
+      "updatedAt": "2026-11-17T17:15:18.686Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A646570%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 89,
+      "url": "https://www.metacritic.com/game/pc/slay-the-spire?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:20.382Z"
+    }
+  },
+  {
+    "id": 1794680,
+    "name": "Vampire Survivors",
+    "image": "assets/1794680.jpg",
+    "movie": {
+      "name": "Refreshed Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1794680/598026/b3a9771de005c30237b53d84932fd2e792f298c0/1750736849/hls_264_master.m3u8?t=1692280956",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256964120/movie.293x165.jpg?t=1692280956"
+    },
+    "year": "Oct 20, 2022",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "poncle",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1794680/",
+    "releaseYear": 2022,
+    "rating": {
+      "positive": 262688,
+      "negative": 4549,
+      "total": 267237,
+      "percent": 98.3,
+      "updatedAt": "2026-11-17T17:15:25.303Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1794680%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 86,
+      "url": "https://www.metacritic.com/game/pc/vampire-survivors?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:22.186Z"
+    }
+  },
+  {
+    "id": 1426210,
+    "name": "It Takes Two",
+    "image": "assets/1426210.jpg",
+    "movie": {
+      "name": "Official Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1426210/356092/0165ad2494097e40af29c015e8948175c3fb97a8/1750688156/hls_264_master.m3u8?t=1616514535",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256827093/movie.293x165.jpg?t=1616514535"
+    },
+    "year": "Mar 25, 2021",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Hazelight Studios",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1426210/",
+    "releaseYear": 2021,
+    "rating": {
+      "positive": 261212,
+      "negative": 12476,
+      "total": 273688,
+      "percent": 95.4,
+      "updatedAt": "2026-11-17T17:15:31.997Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1426210%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 89,
+      "url": "https://www.metacritic.com/game/pc/it-takes-two?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:23.973Z"
+    }
+  },
+  {
+    "id": 548430,
+    "name": "Deep Rock Galactic",
+    "image": "assets/548430.jpg",
+    "movie": {
+      "name": "Launch Day Narrated Gameplay Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/282168/e2fd93dbdc47c0e19fbf33b2965ad4a9028588bd/1750548577/hls_264_master.m3u8?t=1588226844",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256783673/movie.293x165.jpg?t=1588226844"
+    },
+    "year": "May 13, 2020",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Ghost Ship Games",
+    "free": false,
+    "source": "https://store.steampowered.com/app/548430/",
+    "releaseYear": 2020,
+    "rating": {
+      "positive": 370899,
+      "negative": 11086,
+      "total": 381985,
+      "percent": 97.1,
+      "updatedAt": "2026-11-17T17:15:38.668Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A548430%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 85,
+      "url": "https://www.metacritic.com/game/pc/deep-rock-galactic?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:25.795Z"
+    }
+  },
+  {
+    "id": 427520,
+    "name": "Factorio",
+    "image": "assets/427520.jpg",
+    "movie": {
+      "name": "Gameplay Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/427520/51955/69c15fc9a9f17f659effe7747375e96322b34eae/1750529735/hls_264_master.m3u8?t=1456427081",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660593/movie.293x165.jpg?t=1456427081"
+    },
+    "year": "Aug 14, 2020",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "Wube Software LTD.",
+    "free": false,
+    "source": "https://store.steampowered.com/app/427520/",
+    "releaseYear": 2020,
+    "rating": {
+      "positive": 231402,
+      "negative": 5865,
+      "total": 237267,
+      "percent": 97.5,
+      "updatedAt": "2026-11-17T17:15:45.221Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A427520%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 90,
+      "url": "https://www.metacritic.com/game/pc/factorio?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:27.649Z"
+    }
+  },
+  {
+    "id": 294100,
+    "name": "RimWorld",
+    "image": "assets/294100.jpg",
+    "movie": {
+      "name": "Launch trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/294100/189193/b88a55b0c4df1e292fa85455c5157a31ad1da17c/1750502942/hls_264_master.m3u8?t=1539788136",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256731486/movie.293x165.jpg?t=1539788136"
+    },
+    "year": "Oct 17, 2018",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "Ludeon Studios",
+    "free": false,
+    "source": "https://store.steampowered.com/app/294100/",
+    "releaseYear": 2018,
+    "rating": {
+      "positive": 244870,
+      "negative": 5366,
+      "total": 250236,
+      "percent": 97.9,
+      "updatedAt": "2026-11-17T17:15:52.037Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A294100%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 87,
+      "url": "https://www.metacritic.com/game/pc/rimworld?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:29.444Z"
+    }
+  },
+  {
+    "id": 289070,
+    "name": "Sid Meier’s Civilization® VI",
+    "image": "assets/289070.jpg",
+    "movie": {
+      "name": "Civilization VI Launch Trailer - ESRB",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/289070/76616/f09b19535e8ceef09ce6548300cd27f949b52678/1750500599/hls_264_master.m3u8?t=1476736935",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256672694/movie.293x165.jpg?t=1476736935"
+    },
+    "year": "Oct 20, 2016",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "Firaxis Games, Aspyr (Mac), Aspyr (Linux)",
+    "free": false,
+    "source": "https://store.steampowered.com/app/289070/",
+    "releaseYear": 2016,
+    "rating": {
+      "positive": 328842,
+      "negative": 52642,
+      "total": 381484,
+      "percent": 86.2,
+      "updatedAt": "2026-11-17T17:15:58.461Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A289070%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 88,
+      "url": "https://www.metacritic.com/game/pc/sid-meiers-civilization-vi?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:31.268Z"
+    }
+  },
+  {
+    "id": 275850,
+    "name": "No Man's Sky",
+    "image": "assets/275850.jpg",
+    "movie": {
+      "name": "No Man's Sky FORSAKEN Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/275850/1065580902/ecef9b2be8d1a8b272abbafa6dbf4cc1067ccdd0/1793179247/hls_264_master.m3u8?t=1793196384",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257482185/fe075d4a8c66267937ce4b1296d73d0a317383db/movie_600x337.jpg?t=1793196384"
+    },
+    "year": "Aug 12, 2016",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Hello Games",
+    "free": false,
+    "source": "https://store.steampowered.com/app/275850/",
+    "releaseYear": 2016,
+    "rating": {
+      "positive": 363292,
+      "negative": 62298,
+      "total": 425590,
+      "percent": 85.4,
+      "updatedAt": "2026-11-17T17:16:05.189Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A275850%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 61,
+      "url": "https://www.metacritic.com/game/pc/no-mans-sky?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:33.047Z"
+    }
+  },
+  {
+    "id": 814380,
+    "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
+    "image": "assets/814380.jpg",
+    "movie": {
+      "name": "Sekiro: Shadows Die Twice - Gameplay 101 Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/814380/214066/8028d7d95132f516fe298ed58b88905e2a33757c/1750586397/hls_264_master.m3u8?t=1553549458",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256745700/movie.293x165.jpg?t=1553549458"
+    },
+    "year": "Mar 21, 2019",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "FromSoftware, Inc.",
+    "free": false,
+    "source": "https://store.steampowered.com/app/814380/",
+    "releaseYear": 2019,
+    "rating": {
+      "positive": 342892,
+      "negative": 17135,
+      "total": 360027,
+      "percent": 95.2,
+      "updatedAt": "2026-11-17T17:16:16.916Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A814380%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 88,
+      "url": "https://www.metacritic.com/game/pc/sekiro-shadows-die-twice?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:34.820Z"
+    }
+  },
+  {
+    "id": 1332010,
+    "name": "Stray",
+    "image": "assets/1332010.jpg",
+    "movie": {
+      "name": "STRAY | Gameplay Walkthrough",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1332010/389159/b5d308eaeb5c3bd1a767298bd0cdf568c0bfca09/1750672999/hls_264_master.m3u8?t=1627683959",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256844882/movie.293x165.jpg?t=1627683959"
+    },
+    "year": "Jul 19, 2022",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "BlueTwelve Studio",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1332010/",
+    "releaseYear": 2022,
+    "rating": {
+      "positive": 175393,
+      "negative": 5019,
+      "total": 180412,
+      "percent": 97.2,
+      "updatedAt": "2026-11-17T17:16:21.798Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1332010%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 82,
+      "url": "https://www.metacritic.com/game/pc/stray?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:36.627Z"
+    }
+  },
+  {
+    "id": 1145350,
+    "name": "Hades II",
+    "image": "assets/1145350.jpg",
+    "movie": {
+      "name": "Hades II – v1.0 Launch Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1145350/1067641820/dfba9c6a8b09f5bd9b323d6e699ac685065b93d3/1758924611/hls_264_master.m3u8?t=1758942439",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257204779/2f6767807df172946f5d638093dcc1c933eb24bb/movie_600x337.jpg?t=1758942439"
+    },
+    "year": "Sep 25, 2025",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Supergiant Games",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1145350/",
+    "releaseYear": 2025,
+    "rating": {
+      "positive": 119612,
+      "negative": 5362,
+      "total": 124974,
+      "percent": 95.7,
+      "updatedAt": "2026-11-17T17:16:28.426Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1145350%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 94,
+      "url": "https://www.metacritic.com/game/pc/hades-ii?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:38.475Z"
+    }
+  },
+  {
+    "id": 1030300,
+    "name": "Hollow Knight: Silksong",
+    "image": "assets/1030300.jpg",
+    "movie": {
+      "name": "Release Trailer English",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1030300/970174968/f2c514c96548048dd1dca6ef500877916b75fe5a/1755841475/hls_264_master.m3u8?t=1764916585",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257186996/ac1c4277feccd41b0866ffec5d0d40b605df1851/movie_600x337.jpg?t=1764916585"
+    },
+    "year": "Sep 4, 2025",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "Team Cherry",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1030300/",
+    "releaseYear": 2025,
+    "rating": {
+      "positive": 383657,
+      "negative": 44695,
+      "total": 428352,
+      "percent": 89.6,
+      "updatedAt": "2026-11-17T17:16:35.084Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1030300%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 90,
+      "url": "https://www.metacritic.com/game/pc/hollow-knight-silksong?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:40.223Z"
+    }
+  },
+  {
+    "id": 1903340,
+    "name": "Clair Obscur: Expedition 33",
+    "image": "assets/1903340.jpg",
+    "movie": {
+      "name": "Launch Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1903340/876247/5c4709c3a98d932003a6b85bd5e4bfcd6a777e7a/1748581603/hls_264_master.m3u8?t=1745478082",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257129803/a409d62da478b6b9fdceeb05a1281805fe7a0dae/movie_600x337.jpg?t=1745478082"
+    },
+    "year": "Apr 24, 2025",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Sandfall Interactive",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1903340/",
+    "releaseYear": 2025,
+    "rating": {
+      "positive": 269543,
+      "negative": 13635,
+      "total": 283178,
+      "percent": 95.2,
+      "updatedAt": "2026-11-17T17:16:41.755Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1903340%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 91,
+      "url": "https://www.metacritic.com/game/pc/clair-obscur-expedition-33?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:42.091Z"
+    }
+  },
+  {
+    "id": 2246340,
+    "name": "Monster Hunter Wilds",
+    "image": "assets/2246340.jpg",
+    "movie": {
+      "name": "08_MHWilds_TU4.5_Multi_EN-US_ESRB_1080p",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2246340/1302522023/a82634e9f0d94dfa8714df0f49eb06b52f1d4141/1770702331/hls_264_master.m3u8?t=1770710675",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257283350/f56fc8e58afb3467141df79a3f449fab20649949/movie_600x337.jpg?t=1770710675"
+    },
+    "year": "Feb 27, 2025",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "CAPCOM Co., Ltd.",
+    "free": false,
+    "source": "https://store.steampowered.com/app/2246340/",
+    "releaseYear": 2025,
+    "rating": {
+      "positive": 167632,
+      "negative": 167892,
+      "total": 335524,
+      "percent": 50,
+      "updatedAt": "2026-11-17T17:16:48.283Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2246340%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": null
+  },
+  {
+    "id": 2001120,
+    "name": "Split Fiction",
+    "image": "assets/2001120.jpg",
+    "movie": {
+      "name": "Official Gameplay Reveal Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2001120/841461/8234f4fe26451d800682cc01874af2624ac8d543/1748810947/hls_264_master.m3u8?t=1741276826",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257108048/b7fcc6fce4d3e61ab450ffb3b906a6d49d6c6808/movie_600x337.jpg?t=1741276826"
+    },
+    "year": "Mar 6, 2025",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Hazelight Studios",
+    "free": false,
+    "source": "https://store.steampowered.com/app/2001120/",
+    "releaseYear": 2025,
+    "rating": {
+      "positive": 125312,
+      "negative": 4032,
+      "total": 129344,
+      "percent": 96.9,
+      "updatedAt": "2026-11-17T17:16:54.865Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2001120%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": null
+  },
+  {
+    "id": 70,
+    "name": "Half-Life",
+    "image": "assets/70.jpg",
+    "movie": null,
+    "year": "Nov 19, 1998",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "Valve",
+    "free": false,
+    "source": "https://store.steampowered.com/app/70/",
+    "releaseYear": 1998,
+    "rating": {
+      "positive": 159982,
+      "negative": 5830,
+      "total": 165812,
+      "percent": 96.5,
+      "updatedAt": "2026-11-17T17:17:01.876Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A70%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 96,
+      "url": "https://www.metacritic.com/game/pc/half-life?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:47.554Z"
+    }
+  },
+  {
+    "id": 7670,
+    "name": "BioShock™",
+    "image": "assets/7670.jpg",
+    "movie": {
+      "name": "BioShock™ HD Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/7670/757/0d088ba3ec44e64a78f128f757e4b87420f66632/1750484063/hls_264_master.m3u8?t=1447351124",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984/movie.jpg?t=1447351124"
+    },
+    "year": "Aug 21, 2007",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "2K Boston, 2K Australia",
+    "free": false,
+    "source": "https://store.steampowered.com/app/7670/",
+    "releaseYear": 2007,
+    "rating": {
+      "positive": 30378,
+      "negative": 1960,
+      "total": 32338,
+      "percent": 93.9,
+      "updatedAt": "2026-11-17T17:17:08.176Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A7670%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 96,
+      "url": "https://www.metacritic.com/game/pc/bioshock?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:49.288Z"
+    }
+  },
+  {
+    "id": 205100,
+    "name": "Dishonored",
+    "image": "assets/205100.jpg",
+    "movie": {
+      "name": "Dishonored Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/205100/8530/d405a06b8713b1cce35c8d970f32cfc5730e915a/1750492833/hls_264_master.m3u8?t=1447356365",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81912/movie.293x165.jpg?t=1447356365"
+    },
+    "year": "Oct 8, 2012",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Arkane Studios",
+    "free": false,
+    "source": "https://store.steampowered.com/app/205100/",
+    "releaseYear": 2012,
+    "rating": {
+      "positive": 86960,
+      "negative": 2098,
+      "total": 89058,
+      "percent": 97.6,
+      "updatedAt": "2026-11-17T17:17:14.798Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A205100%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 91,
+      "url": "https://www.metacritic.com/game/pc/dishonored?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:51.124Z"
+    }
+  },
+  {
+    "id": 1328670,
+    "name": "Mass Effect™ Legendary Edition",
+    "image": "assets/1328670.jpg",
+    "movie": {
+      "name": "Accolades Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1328670/372173/1cc8c9e70e2125b86e6aea9c216ac6a6fb4e14fb/1750672745/hls_264_master.m3u8?t=1621958368",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256836016/movie.293x165.jpg?t=1621958368"
+    },
+    "year": "May 14, 2021",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "BioWare",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1328670/",
+    "releaseYear": 2021,
+    "rating": {
+      "positive": 63547,
+      "negative": 6012,
+      "total": 69559,
+      "percent": 91.4,
+      "updatedAt": "2026-11-17T17:17:21.402Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1328670%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 86,
+      "url": "https://www.metacritic.com/game/pc/mass-effect-legendary-edition?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:52.897Z"
+    }
+  },
+  {
+    "id": 203160,
+    "name": "Tomb Raider Game of the Year",
+    "image": "assets/203160.jpg",
+    "movie": {
+      "name": "TR- Launch and Accolades ESRB ENG",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/203160/57098/4bcab49b1ca8854f48021efbdbf1ea4e18d78c7a/1750498846/hls_264_master.m3u8?t=1461666307",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256663328/movie.293x165.jpg?t=1461666307"
+    },
+    "year": "Mar 4, 2013",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Crystal Dynamics, Eidos-Montréal, Feral Interactive (Mac), Nixxes",
+    "free": false,
+    "source": "https://store.steampowered.com/app/203160/",
+    "releaseYear": 2013,
+    "rating": {
+      "positive": 262698,
+      "negative": 10952,
+      "total": 273650,
+      "percent": 96,
+      "updatedAt": "2026-11-17T17:17:28.107Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A203160%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    },
+    "metacritic": {
+      "score": 86,
+      "url": "https://www.metacritic.com/game/pc/tomb-raider?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:54.710Z"
+    }
+  },
+  {
+    "id": 379720,
+    "name": "DOOM",
+    "image": "assets/379720.jpg",
+    "movie": {
+      "name": "DOOM Multiplayer Gameplay Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/379720/53998/963bea74e2bc8a9032be61fce035816b0757704f/1750521208/hls_264_master.m3u8?t=1457539245",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256661566/movie.293x165.jpg?t=1457539245"
+    },
+    "year": "May 12, 2016",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "id Software",
+    "free": false,
+    "source": "https://store.steampowered.com/app/379720/",
+    "releaseYear": 2016,
+    "metacritic": {
+      "score": 85,
+      "url": "https://www.metacritic.com/game/pc/doom?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:09:58.253Z"
+    },
+    "rating": {
+      "positive": 212861,
+      "negative": 9975,
+      "total": 222836,
+      "percent": 95.5,
+      "updatedAt": "2026-11-24T20:10:00.437Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A379720%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 782330,
+    "name": "DOOM Eternal",
+    "image": "assets/782330.jpg",
+    "movie": {
+      "name": "Mods Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/782330/1058653592/9f0464e095deedf33609b7717ae0390d6fa20ffb/1755007462/hls_264_master.m3u8?t=1755109909",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257182101/842d4f0e002d40b68833ca2db0137044ba1c04bc/movie_600x337.jpg?t=1755109909"
+    },
+    "year": "Mar 19, 2020",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "id Software",
+    "free": false,
+    "source": "https://store.steampowered.com/app/782330/",
+    "releaseYear": 2020,
+    "metacritic": {
+      "score": 88,
+      "url": "https://www.metacritic.com/game/pc/doom-eternal?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:10:03.680Z"
+    },
+    "rating": {
+      "positive": 199489,
+      "negative": 18812,
+      "total": 218301,
+      "percent": 91.4,
+      "updatedAt": "2026-11-24T20:10:05.930Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A782330%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 1237970,
+    "name": "Titanfall® 2",
+    "image": "assets/1237970.jpg",
+    "movie": {
+      "name": "Multiplayer Gameplay",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1237970/293105/1108ca5c5d1c6f88fa10bd284c8492ca4a675ed8/1750647701/hls_264_master.m3u8?t=1592506485",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256789725/movie.293x165.jpg?t=1592506485"
+    },
+    "year": "Jun 18, 2020",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Respawn Entertainment",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1237970/",
+    "releaseYear": 2020,
+    "metacritic": {
+      "score": 86,
+      "url": "https://www.metacritic.com/game/pc/titanfall-2?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:10:09.098Z"
+    },
+    "rating": {
+      "positive": 277303,
+      "negative": 12565,
+      "total": 289868,
+      "percent": 95.7,
+      "updatedAt": "2026-11-24T20:10:11.378Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1237970%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 1850570,
+    "name": "DEATH STRANDING DIRECTOR'S CUT",
+    "image": "assets/1850570.jpg",
+    "movie": {
+      "name": "DEATH STRANDING DIRECTOR'S CUT Launch Trailer ESRB",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1850570/448934/62be5bb6853bf6747f6903a95328bc2de36d37a4/1750738559/hls_264_master.m3u8?t=1683196656",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256878921/movie.293x165.jpg?t=1683196656"
+    },
+    "year": "Mar 30, 2022",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "KOJIMA PRODUCTIONS",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1850570/",
+    "releaseYear": 2022,
+    "metacritic": {
+      "score": 85,
+      "url": "https://www.metacritic.com/game/pc/death-stranding-directors-cut?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:10:14.502Z"
+    },
+    "rating": {
+      "positive": 65574,
+      "negative": 5593,
+      "total": 71167,
+      "percent": 92.1,
+      "updatedAt": "2026-11-24T20:10:16.657Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1850570%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 1593500,
+    "name": "God of War",
+    "image": "assets/1593500.jpg",
+    "movie": {
+      "name": "Features Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1593500/423179/503f509cd6c9964f790867e6cda8542789136b85/1750704708/hls_264_master.m3u8?t=1639001817",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256864004/movie.293x165.jpg?t=1639001817"
+    },
+    "year": "Jan 14, 2022",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Santa Monica Studio, Jetpack Interactive",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1593500/",
+    "releaseYear": 2022,
+    "metacritic": {
+      "score": 93,
+      "url": "https://www.metacritic.com/game/pc/god-of-war?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:10:19.921Z"
+    },
+    "rating": {
+      "positive": 179814,
+      "negative": 7687,
+      "total": 187501,
+      "percent": 95.9,
+      "updatedAt": "2026-11-24T20:10:22.092Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1593500%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 2322010,
+    "name": "God of War Ragnarök",
+    "image": "assets/2322010.jpg",
+    "movie": {
+      "name": "Launch Trailer (US-EN)",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2322010/754785/cd4512509a851f1f5e98b3ddffdda87de8bac9f1/1750811709/hls_264_master.m3u8?t=1726759092",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257054534/movie.293x165.jpg?t=1726759092"
+    },
+    "year": "Sep 19, 2024",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Santa Monica Studio, Jetpack Interactive",
+    "free": false,
+    "source": "https://store.steampowered.com/app/2322010/",
+    "releaseYear": 2024,
+    "metacritic": {
+      "score": 90,
+      "url": "https://www.metacritic.com/game/pc/god-of-war-ragnarok?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:10:25.330Z"
+    },
+    "rating": {
+      "positive": 46141,
+      "negative": 5700,
+      "total": 51841,
+      "percent": 89,
+      "updatedAt": "2026-11-24T20:10:27.387Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2322010%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 2420110,
+    "name": "Horizon Forbidden West™ Complete Edition",
+    "image": "assets/2420110.jpg",
+    "movie": {
+      "name": "full launch trailer EN_US",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2420110/673729/da330af842f0deee5a8b1b84a79c0f1cd24f68df/1750814445/hls_264_master.m3u8?t=1711032973",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257007287/movie.293x165.jpg?t=1711032973"
+    },
+    "year": "Mar 21, 2024",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Guerrilla, Nixxes Software",
+    "free": false,
+    "source": "https://store.steampowered.com/app/2420110/",
+    "releaseYear": 2024,
+    "metacritic": null,
+    "rating": {
+      "positive": 27468,
+      "negative": 3753,
+      "total": 31221,
+      "percent": 88,
+      "updatedAt": "2026-11-24T20:10:32.837Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2420110%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 870780,
+    "name": "CONTROL Ultimate Edition",
+    "image": "assets/870780.jpg",
+    "movie": {
+      "name": "Control Ultimate Edition Trailer (Eng ESRB)",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/870780/302947/a9fd4106f169a2a8828160ffbfa16aadd7fea059/1750591905/hls_264_master.m3u8?t=1599146533",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256795524/movie.293x165.jpg?t=1599146533"
+    },
+    "year": "Aug 27, 2020",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Remedy Entertainment",
+    "free": false,
+    "source": "https://store.steampowered.com/app/870780/",
+    "releaseYear": 2020,
+    "metacritic": {
+      "score": 85,
+      "url": "https://www.metacritic.com/game/pc/control?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:10:36.185Z"
+    },
+    "rating": {
+      "positive": 58094,
+      "negative": 9355,
+      "total": 67449,
+      "percent": 86.1,
+      "updatedAt": "2026-11-24T20:10:38.321Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A870780%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 108710,
+    "name": "Alan Wake",
+    "image": "assets/108710.jpg",
+    "movie": {
+      "name": "Alan Wake Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/108710/6835/4ed6b629bedc7607badfcde88f72e53f5df3364e/1750492670/hls_264_master.m3u8?t=1447355365",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81422/movie.293x165.jpg?t=1447355365"
+    },
+    "year": "Feb 16, 2012",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Remedy Entertainment",
+    "free": false,
+    "source": "https://store.steampowered.com/app/108710/",
+    "releaseYear": 2012,
+    "metacritic": {
+      "score": 83,
+      "url": "https://www.metacritic.com/game/pc/alan-wake?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:10:41.614Z"
+    },
+    "rating": {
+      "positive": 54966,
+      "negative": 6176,
+      "total": 61142,
+      "percent": 89.9,
+      "updatedAt": "2026-11-24T20:10:43.691Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A108710%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 883710,
+    "name": "Resident Evil 2",
+    "image": "assets/883710.jpg",
+    "movie": {
+      "name": "01-RE2_LaunchTrailer_Steam_ESRB",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/883710/207142/d7a83bb3e6664cc95d2e661679eb6a7ff5b7f538/1750593004/hls_264_master.m3u8?t=1548921091",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256741826/movie.293x165.jpg?t=1548921091"
+    },
+    "year": "Jan 24, 2019",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "CAPCOM Co., Ltd.",
+    "free": false,
+    "source": "https://store.steampowered.com/app/883710/",
+    "releaseYear": 2019,
+    "metacritic": {
+      "score": 89,
+      "url": "https://www.metacritic.com/game/pc/resident-evil-2?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:10:47.011Z"
+    },
+    "rating": {
+      "positive": 223165,
+      "negative": 6847,
+      "total": 230012,
+      "percent": 97,
+      "updatedAt": "2026-11-24T20:10:49.172Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A883710%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 2050650,
+    "name": "Resident Evil 4",
+    "image": "assets/2050650.jpg",
+    "movie": {
+      "name": "07【RE4】_GELaunchPV_Multi_US_FullHD_ESRB_好評発売中.mp4",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2050650/657549/cb3c3f74c8ef584d34401e5786b1858845df8fbe/1750745214/hls_264_master.m3u8?t=1707455759",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256998128/movie.293x165.jpg?t=1707455759"
+    },
+    "year": "Mar 23, 2023",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "CAPCOM Co., Ltd.",
+    "free": false,
+    "source": "https://store.steampowered.com/app/2050650/",
+    "releaseYear": 2023,
+    "metacritic": {
+      "score": 91,
+      "url": "https://www.metacritic.com/game/pc/resident-evil-4?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:10:52.445Z"
+    },
+    "rating": {
+      "positive": 282432,
+      "negative": 7586,
+      "total": 290018,
+      "percent": 97.4,
+      "updatedAt": "2026-11-24T20:10:54.649Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2050650%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 418370,
+    "name": "Resident Evil 7 Biohazard",
+    "image": "assets/418370.jpg",
+    "movie": {
+      "name": "03_Resident Evil 7 biohazard: TAPE-4 “Biohazard\"_US",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/418370/62371/e1aface7d56acf79d920ab223166696867e7a8e2/1750527985/hls_264_master.m3u8?t=1485771781",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256665621/movie.293x165.jpg?t=1485771781"
+    },
+    "year": "Jan 23, 2017",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "CAPCOM Co., Ltd.",
+    "free": false,
+    "source": "https://store.steampowered.com/app/418370/",
+    "releaseYear": 2017,
+    "metacritic": {
+      "score": 83,
+      "url": "https://www.metacritic.com/game/pc/resident-evil-7-biohazard?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:10:57.870Z"
+    },
+    "rating": {
+      "positive": 124116,
+      "negative": 6123,
+      "total": 130239,
+      "percent": 95.3,
+      "updatedAt": "2026-11-24T20:11:00.085Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A418370%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 601150,
+    "name": "Devil May Cry 5",
+    "image": "assets/601150.jpg",
+    "movie": {
+      "name": "01-DMC5_DLC-PV_Steam_ESRB_EN.mp4",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/601150/334696/83816cc00a1f3b4b5af9f6ea31f9f5c7a7832429/1750560156/hls_264_master.m3u8?t=1669135942",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256814526/movie.293x165.jpg?t=1669135942"
+    },
+    "year": "Mar 7, 2019",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "CAPCOM Co., Ltd.",
+    "free": false,
+    "source": "https://store.steampowered.com/app/601150/",
+    "releaseYear": 2019,
+    "metacritic": {
+      "score": 89,
+      "url": "https://www.metacritic.com/game/pc/devil-may-cry-5?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:11:03.295Z"
+    },
+    "rating": {
+      "positive": 165905,
+      "negative": 6918,
+      "total": 172823,
+      "percent": 96,
+      "updatedAt": "2026-11-24T20:11:05.511Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A601150%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 524220,
+    "name": "NieR:Automata™",
+    "image": "assets/524220.jpg",
+    "movie": {
+      "name": "ESRB NieR Gameplay",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/524220/871847/fb4000ceede0f494c11e0a19acc2486b2180346f/1750543713/hls_264_master.m3u8?t=1745211770",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257127027/699bb4925e05f0b9b44ef0f2abcc539c0e3f8e68/movie_600x337.jpg?t=1745211770"
+    },
+    "year": "Mar 17, 2017",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Square Enix, PlatinumGames Inc.",
+    "free": false,
+    "source": "https://store.steampowered.com/app/524220/",
+    "releaseYear": 2017,
+    "metacritic": {
+      "score": 84,
+      "url": "https://www.metacritic.com/game/pc/nier-automata?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:11:08.724Z"
+    },
+    "rating": {
+      "positive": 135888,
+      "negative": 19559,
+      "total": 155447,
+      "percent": 87.4,
+      "updatedAt": "2026-11-24T20:11:10.897Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A524220%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 1687950,
+    "name": "Persona 5 Royal",
+    "image": "assets/1687950.jpg",
+    "movie": {
+      "name": "Launch Trailer (Unrated)",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1687950/506609/4ee1371464ce2149f69f89c36b9f906e369db2f1/1750725763/hls_264_master.m3u8?t=1722428147",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256911919/movie.293x165.jpg?t=1722428147"
+    },
+    "year": "Oct 20, 2022",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "ATLUS",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1687950/",
+    "releaseYear": 2022,
+    "metacritic": {
+      "score": 95,
+      "url": "https://www.metacritic.com/game/pc/persona-5-royal?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:11:14.141Z"
+    },
+    "rating": {
+      "positive": 138836,
+      "negative": 5285,
+      "total": 144121,
+      "percent": 96.3,
+      "updatedAt": "2026-11-24T20:11:16.277Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1687950%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 1235140,
+    "name": "Yakuza: Like a Dragon",
+    "image": "assets/1235140.jpg",
+    "movie": {
+      "name": "YakuzaGameplay_Full_16x9_STEAM_ESRB_Preorder_FINAL",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1235140/299904/1a45772d30214f7ae8c5dc3ceb25bfcfd3dddb30/1750646761/hls_264_master.m3u8?t=1595433924",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256793637/movie.293x165.jpg?t=1595433924"
+    },
+    "year": "Nov 10, 2020",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "RGG Studio",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1235140/",
+    "releaseYear": 2020,
+    "metacritic": {
+      "score": 83,
+      "url": "https://www.metacritic.com/game/pc/yakuza-like-a-dragon?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:11:19.572Z"
+    },
+    "rating": {
+      "positive": 35683,
+      "negative": 2296,
+      "total": 37979,
+      "percent": 94,
+      "updatedAt": "2026-11-24T20:11:21.625Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1235140%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 1771300,
+    "name": "Kingdom Come: Deliverance II",
+    "image": "assets/1771300.jpg",
+    "movie": {
+      "name": "Kingdom Come: Deliverance II - Gameplay Teaser ESRB",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1771300/742611/7c3caeef54e7a678ca0b8d00e76743aca1f12d88/1750734132/hls_264_master.m3u8?t=1724183884",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257047503/movie.293x165.jpg?t=1724183884"
+    },
+    "year": "Feb 4, 2025",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Warhorse Studios",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1771300/",
+    "releaseYear": 2025,
+    "metacritic": {
+      "score": 89,
+      "url": "https://www.metacritic.com/game/pc/kingdom-come-deliverance-ii?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:11:24.961Z"
+    },
+    "rating": {
+      "positive": 189595,
+      "negative": 12393,
+      "total": 201988,
+      "percent": 93.9,
+      "updatedAt": "2026-11-24T20:11:27.105Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1771300%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 323190,
+    "name": "Frostpunk",
+    "image": "assets/323190.jpg",
+    "movie": {
+      "name": "Final Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/323190/553817/d7f470c4d5519f83e39504df2c22449dc3ee6974/1750508483/hls_264_master.m3u8?t=1685028532",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256938862/movie.293x165.jpg?t=1685028532"
+    },
+    "year": "Apr 24, 2018",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "11 bit studios",
+    "free": false,
+    "source": "https://store.steampowered.com/app/323190/",
+    "releaseYear": 2018,
+    "metacritic": {
+      "score": 84,
+      "url": "https://www.metacritic.com/game/pc/frostpunk?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:11:30.397Z"
+    },
+    "rating": {
+      "positive": 128992,
+      "negative": 10088,
+      "total": 139080,
+      "percent": 92.7,
+      "updatedAt": "2026-11-24T20:11:32.617Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A323190%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 255710,
+    "name": "Cities: Skylines",
+    "image": "assets/255710.jpg",
+    "movie": {
+      "name": "Trailer 2020",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/255710/285736/c6d0fd84c7635300ea7ce0ca9222840f47fe228d/1750489550/hls_264_master.m3u8?t=1589550020",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256785384/movie.293x165.jpg?t=1589550020"
+    },
+    "year": "Mar 10, 2015",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "Colossal Order",
+    "free": false,
+    "source": "https://store.steampowered.com/app/255710/",
+    "releaseYear": 2015,
+    "metacritic": {
+      "score": 85,
+      "url": "https://www.metacritic.com/game/pc/cities-skylines?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:11:35.817Z"
+    },
+    "rating": {
+      "positive": 271267,
+      "negative": 21129,
+      "total": 292396,
+      "percent": 92.8,
+      "updatedAt": "2026-11-24T20:11:38.041Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A255710%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 268500,
+    "name": "XCOM® 2",
+    "image": "assets/268500.jpg",
+    "movie": {
+      "name": "XCOM 2 - Launch Trailer - ESRB",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/268500/51671/7f347059cb4a0a9fa2d45369a8391397e51fad67/1750499227/hls_264_master.m3u8?t=1454648692",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660485/movie.293x165.jpg?t=1454648692"
+    },
+    "year": "Feb 4, 2016",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "Firaxis Games, Feral Interactive (Mac), Feral Interactive (Linux)",
+    "free": false,
+    "source": "https://store.steampowered.com/app/268500/",
+    "releaseYear": 2016,
+    "metacritic": {
+      "score": 88,
+      "url": "https://www.metacritic.com/game/pc/xcom-2?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:11:41.276Z"
+    },
+    "rating": {
+      "positive": 93518,
+      "negative": 16851,
+      "total": 110369,
+      "percent": 84.7,
+      "updatedAt": "2026-11-24T20:11:43.384Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A268500%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 590380,
+    "name": "Into the Breach",
+    "image": "assets/590380.jpg",
+    "movie": {
+      "name": "Into The Breach - Announcement Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/590380/89558/de5e87f7edee39b31eb3f4810d5a04f9cbe2aaf0/1750557552/hls_264_master.m3u8?t=1519738417",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256679224/movie.293x165.jpg?t=1519738417"
+    },
+    "year": "Feb 27, 2018",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "Subset Games",
+    "free": false,
+    "source": "https://store.steampowered.com/app/590380/",
+    "releaseYear": 2018,
+    "metacritic": {
+      "score": 90,
+      "url": "https://www.metacritic.com/game/pc/into-the-breach?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:11:46.664Z"
+    },
+    "rating": {
+      "positive": 21280,
+      "negative": 1326,
+      "total": 22606,
+      "percent": 94.1,
+      "updatedAt": "2026-11-24T20:11:48.687Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A590380%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 1868140,
+    "name": "DAVE THE DIVER",
+    "image": "assets/1868140.jpg",
+    "movie": {
+      "name": "DAVE THE DIVER_DIVE IN NOW Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1868140/581787/bef9ffd11e17bcfa42e6609682e42cc296264c3f/1750739131/hls_264_master.m3u8?t=1734352317",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256955037/49bdb6c156e533898bee7ecd0e101f04df8d4d89/movie_600x337.jpg?t=1734352317"
+    },
+    "year": "Jun 28, 2023",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "MINTROCKET",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1868140/",
+    "releaseYear": 2023,
+    "metacritic": {
+      "score": 90,
+      "url": "https://www.metacritic.com/game/pc/dave-the-diver?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:11:52.089Z"
+    },
+    "rating": {
+      "positive": 160080,
+      "negative": 5894,
+      "total": 165974,
+      "percent": 96.4,
+      "updatedAt": "2026-11-24T20:11:54.222Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1868140%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 2379780,
+    "name": "Balatro",
+    "image": "assets/2379780.jpg",
+    "movie": {
+      "name": "Accolades Gameplay Video",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2379780/581550014/e9a47276c1efe4165c2e25e35a06d417d78e1724/1758033766/hls_264_master.m3u8?t=1759138871",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257198110/8a0ee295b28d9650b4176336600ef70c204209a0/movie_600x337.jpg?t=1759138871"
+    },
+    "year": "Feb 20, 2024",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "LocalThunk",
+    "free": false,
+    "source": "https://store.steampowered.com/app/2379780/",
+    "releaseYear": 2024,
+    "metacritic": {
+      "score": 90,
+      "url": "https://www.metacritic.com/game/pc/balatro?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:11:57.518Z"
+    },
+    "rating": {
+      "positive": 197516,
+      "negative": 4396,
+      "total": 201912,
+      "percent": 97.8,
+      "updatedAt": "2026-11-24T20:11:59.647Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2379780%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 2231450,
+    "name": "Pizza Tower",
+    "image": "assets/2231450.jpg",
+    "movie": {
+      "name": "Pizza Tower Steam Page",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2231450/517891/08c0a6646ad445b14df533372fc734491bdfecfd/1750809568/hls_264_master.m3u8?t=1670012877",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256918530/movie.293x165.jpg?t=1670012877"
+    },
+    "year": "Jan 26, 2023",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Tour De Pizza",
+    "free": false,
+    "source": "https://store.steampowered.com/app/2231450/",
+    "releaseYear": 2023,
+    "metacritic": null,
+    "rating": {
+      "positive": 72144,
+      "negative": 1267,
+      "total": 73411,
+      "percent": 98.3,
+      "updatedAt": "2026-11-24T20:12:04.944Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2231450%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 268910,
+    "name": "Cuphead",
+    "image": "assets/268910.jpg",
+    "movie": {
+      "name": "Cuphead: The Delicious Last Course - Launch Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/268910/476013/2be829e20a796ed2e0e707fb1c747e1d15f6fb25/1750499396/hls_264_master.m3u8?t=1656595223",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256894191/movie.293x165.jpg?t=1656595223"
+    },
+    "year": "Sep 29, 2017",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Studio MDHR Entertainment Inc.",
+    "free": false,
+    "source": "https://store.steampowered.com/app/268910/",
+    "releaseYear": 2017,
+    "metacritic": {
+      "score": 88,
+      "url": "https://www.metacritic.com/game/pc/cuphead?ftag=MCD-06-10aaa1f",
+      "platform": "PC",
+      "checkedAt": "2026-11-24T20:12:08.351Z"
+    },
+    "rating": {
+      "positive": 215865,
+      "negative": 8663,
+      "total": 224528,
+      "percent": 96.1,
+      "updatedAt": "2026-11-24T20:12:10.537Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A268910%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 2324650,
+    "name": "The Murder of Sonic the Hedgehog",
+    "image": "assets/2324650.jpg",
+    "movie": {
+      "name": "Launch Trailer (ESRB)",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2324650/551565/de8bfd74d27ec8c48485127aca796e0762c6fd3c/1750906619/hls_264_master.m3u8?t=1680289465",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256937621/movie.293x165.jpg?t=1680289465"
+    },
+    "year": "Mar 31, 2023",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "SEGA",
+    "free": true,
+    "source": "https://store.steampowered.com/app/2324650/",
+    "releaseYear": 2023,
+    "metacritic": null,
+    "rating": {
+      "positive": 24571,
+      "negative": 774,
+      "total": 25345,
+      "percent": 96.9,
+      "updatedAt": "2026-11-24T20:58:01.447Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2324650%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 1170880,
+    "name": "Grimm's Hollow",
+    "image": "assets/1170880.jpg",
+    "movie": {
+      "name": "Grimm's Hollow - Trailer 1",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1170880/397089/6ad9adebc94ef79fed02c76fb31b1ab841a60678/1751198513/hls_264_master.m3u8?t=1630243137",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256849385/movie.293x165.jpg?t=1630243137"
+    },
+    "year": "Oct 30, 2019",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "ghosthunter",
+    "free": true,
+    "source": "https://store.steampowered.com/app/1170880/",
+    "releaseYear": 2019,
+    "metacritic": null,
+    "rating": {
+      "positive": 14472,
+      "negative": 216,
+      "total": 14688,
+      "percent": 98.5,
+      "updatedAt": "2026-11-24T20:58:06.857Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1170880%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 417860,
+    "name": "Emily is Away",
+    "image": "assets/417860.jpg",
+    "movie": {
+      "name": "Emily is Away Steam Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/417860/46456/090f0010064b37edee6c78c22d0901106b600f70/1751280784/hls_264_master.m3u8?t=1447979469",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256658137/movie.293x165.jpg?t=1447979469"
+    },
+    "year": "Nov 20, 2015",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "Kyle Seeley",
+    "free": true,
+    "source": "https://store.steampowered.com/app/417860/",
+    "releaseYear": 2015,
+    "metacritic": null,
+    "rating": {
+      "positive": 28665,
+      "negative": 3698,
+      "total": 32363,
+      "percent": 88.6,
+      "updatedAt": "2026-11-24T20:58:12.267Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A417860%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 1129190,
+    "name": "Our Life: Beginnings & Always",
+    "image": "assets/1129190.jpg",
+    "movie": {
+      "name": "Our Life Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1129190/264665/3a98f06b2a591c40aff53fbd9c760550ff9e9f53/1750624852/hls_264_master.m3u8?t=1605318663",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256773895/movie.293x165.jpg?t=1605318663"
+    },
+    "year": "Nov 16, 2020",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "GB Patch Games",
+    "free": true,
+    "source": "https://store.steampowered.com/app/1129190/",
+    "releaseYear": 2020,
+    "metacritic": null,
+    "rating": {
+      "positive": 13732,
+      "negative": 179,
+      "total": 13911,
+      "percent": 98.7,
+      "updatedAt": "2026-11-24T20:58:17.725Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1129190%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 409160,
+    "name": "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist",
+    "image": "assets/409160.jpg",
+    "movie": {
+      "name": "Release Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/409160/48161/c4a4b9006ab6c491b3bd9f399e0010ec45e404cd/1751279576/hls_264_master.m3u8?t=1449248092",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256658865/movie.293x165.jpg?t=1449248092"
+    },
+    "year": "Dec 4, 2015",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Crows Crows Crows",
+    "free": true,
+    "source": "https://store.steampowered.com/app/409160/",
+    "releaseYear": 2015,
+    "metacritic": null,
+    "rating": {
+      "positive": 9515,
+      "negative": 696,
+      "total": 10211,
+      "percent": 93.2,
+      "updatedAt": "2026-11-24T20:58:23.147Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A409160%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 582500,
+    "name": "We Were Here",
+    "image": "assets/582500.jpg",
+    "movie": {
+      "name": "We Were Here Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/582500/87837/d9da7ca27c11ca6eca5755a131e5466dc6ad2337/1751305192/hls_264_master.m3u8?t=1485442343",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256678424/movie.293x165.jpg?t=1485442343"
+    },
+    "year": "Feb 3, 2017",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Total Mayhem Games",
+    "free": true,
+    "source": "https://store.steampowered.com/app/582500/",
+    "releaseYear": 2017,
+    "metacritic": null,
+    "rating": {
+      "positive": 30021,
+      "negative": 3667,
+      "total": 33688,
+      "percent": 89.1,
+      "updatedAt": "2026-11-24T20:58:28.540Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A582500%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 1536610,
+    "name": "OpenTTD",
+    "image": "assets/1536610.jpg",
+    "movie": {
+      "name": "Trailer #2",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1536610/346575/e10048c04429e4dbe143ca936061790db9ab8e8b/1751000084/hls_264_master.m3u8?t=1612801443",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256821686/movie.293x165.jpg?t=1612801443"
+    },
+    "year": "Apr 1, 2021",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "OpenTTD",
+    "free": false,
+    "source": "https://store.steampowered.com/app/1536610/",
+    "releaseYear": 2021,
+    "metacritic": null,
+    "rating": {
+      "positive": 16260,
+      "negative": 932,
+      "total": 17192,
+      "percent": 94.6,
+      "updatedAt": "2026-11-24T20:58:33.959Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1536610%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 563560,
+    "name": "Alien Swarm: Reactive Drop",
+    "image": "assets/563560.jpg",
+    "movie": {
+      "name": "Alien Swarm: Reactive Drop Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/563560/81740/15ed5c69ef32453ddc0a746c08e5a5aa01faeed6/1751302281/hls_264_master.m3u8?t=1683071036",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256675359/movie.293x165.jpg?t=1683071036"
+    },
+    "year": "Apr 20, 2017",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Reactive Drop Team",
+    "free": true,
+    "source": "https://store.steampowered.com/app/563560/",
+    "releaseYear": 2017,
+    "metacritic": null,
+    "rating": {
+      "positive": 22686,
+      "negative": 1216,
+      "total": 23902,
+      "percent": 94.9,
+      "updatedAt": "2026-11-24T20:58:39.368Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A563560%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 407900,
+    "name": "Princess Remedy in a World of Hurt",
+    "image": "assets/407900.jpg",
+    "movie": {
+      "name": "Release trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/407900/48682/721c57529bc0f2fe890bc2413be61e1d839e35a3/1751279462/hls_264_master.m3u8?t=1451664678",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659100/movie.293x165.jpg?t=1451664678"
+    },
+    "year": "Jan 1, 2016",
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "comingSoon": false,
+    "developer": "Ludosity, Remar Games",
+    "free": true,
+    "source": "https://store.steampowered.com/app/407900/",
+    "releaseYear": 2016,
+    "metacritic": null,
+    "rating": {
+      "positive": 2861,
+      "negative": 64,
+      "total": 2925,
+      "percent": 97.8,
+      "updatedAt": "2026-11-24T20:58:44.871Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A407900%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  },
+  {
+    "id": 1289310,
+    "name": "Helltaker",
+    "image": "assets/1289310.jpg",
+    "movie": {
+      "name": "Helltaker Steam Trailer",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1289310/284822/0c0fccf2882f5203705968f217767255ac995738/1751215606/hls_264_master.m3u8?t=1589195344",
+      "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256784968/movie.293x165.jpg?t=1589195344"
+    },
+    "year": "May 11, 2020",
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "comingSoon": false,
+    "developer": "vanripper",
+    "free": true,
+    "source": "https://store.steampowered.com/app/1289310/",
+    "releaseYear": 2020,
+    "metacritic": null,
+    "rating": {
+      "positive": 125509,
+      "negative": 2987,
+      "total": 128496,
+      "percent": 97.7,
+      "updatedAt": "2026-11-24T20:58:50.313Z",
+      "source": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1289310%2C%22languages%22%3A%5B%22all%22%5D%2C%22filter%22%3A0%2C%22day_range%22%3A0%2C%22review_type%22%3A0%2C%22purchase_type%22%3A1%2C%22num_per_page%22%3A1%2C%22filter_offtopic_activity%22%3Atrue%7D"
+    }
+  }
+]
